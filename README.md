@@ -1,3 +1,25 @@
+
+#TypeJS
+
+Sane type checking for JavaScript. JavaScript simply isnt very good at type checking. TypeJS is an ultra-lightweight (4kb) JavaScript library that correctly identifies a variable's type. Licensed under MIT.
+
+#Getting Started
+
+If you are using node and npm:
+
+<code> npm install node-typejs </code>
+
+Otherwise go here:
+
+<a href = "http://typejs.com/">TypeJS</a>
+
+#Usage
+
+For documentation and usage please see www.typejs.com
+
+
+#License - its free (see below)
+
 The MIT License (MIT)
 
 Copyright (c) 2015 Patrick Traeger
