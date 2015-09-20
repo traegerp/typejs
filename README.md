@@ -15,7 +15,7 @@ Otherwise go here:
 
 #Usage
 
-For documentation and usage please see www.typejs.com
+For documentation and usage please see <a href ="http://typejs.com">typejs.com</a>
 
 
 #License - its free (see below)
